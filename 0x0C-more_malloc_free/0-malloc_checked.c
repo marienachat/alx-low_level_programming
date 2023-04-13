@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
-* *malloc_checked : allocates memory using malloc
+* *malloc_checked : allocates memory using malloc and exit if failed
 * @b : int
 * Return: array initialise or NULL
 */
